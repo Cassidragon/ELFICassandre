@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 3f24d02202bd86945bbfa5c6dd4650da
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sonOuverture: {fileID: 8300000, guid: 3688f9cd2406b844d9c13952a98059e6, type: 3}
+  - sonFermeture: {fileID: 8300000, guid: ed4430bb44c68d24491f7507f09891ba, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
